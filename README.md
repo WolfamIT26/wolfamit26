@@ -63,9 +63,6 @@
 <div align="center">
   <img src="./assets/github-summary.svg" alt="WolfamIT26 GitHub engineering summary" />
   <br />
-  <img height="170" src="./assets/github-stats.svg" alt="WolfamIT26 GitHub Stats" />
-  <img height="170" src="./assets/top-languages.svg" alt="WolfamIT26 Top Languages" />
-  <br />
   <picture>
     <source srcset="https://streak-stats.demolab.com?user=WolfamIT26&theme=github-dark-blue&hide_border=true" media="(prefers-color-scheme: dark)" />
     <img src="https://streak-stats.demolab.com?user=WolfamIT26&theme=default&hide_border=true" alt="WolfamIT26 GitHub streak" />
@@ -87,20 +84,6 @@
 
 <div align="center">
   <img src="./assets/language-chart.svg" alt="Repository language distribution chart" />
-  <p>
-    <img src="https://img.shields.io/static/v1?label=HTML&message=8%25&color=e34c26&style=flat&logo=html5&logoColor=white" alt="HTML: 8%" />
-    <img src="https://img.shields.io/static/v1?label=CSS&message=2.1%25&color=563d7c&style=flat&logo=css3&logoColor=white" alt="CSS: 2.1%" />
-    <img src="https://img.shields.io/static/v1?label=JavaScript&message=5.3%25&color=f1e05a&style=flat&logo=javascript&logoColor=white" alt="JavaScript: 5.3%" />
-    <img src="https://img.shields.io/static/v1?label=TypeScript&message=0%25&color=3178c6&style=flat&logo=typescript&logoColor=white" alt="TypeScript: 0%" />
-    <img src="https://img.shields.io/static/v1?label=Python&message=78.1%25&color=3572A5&style=flat&logo=python&logoColor=white" alt="Python: 78.1%" />
-    <img src="https://img.shields.io/static/v1?label=Java&message=2.7%25&color=b07219&style=flat&logo=openjdk&logoColor=white" alt="Java: 2.7%" />
-    <img src="https://img.shields.io/static/v1?label=PHP&message=0.4%25&color=4F5D95&style=flat&logo=php&logoColor=white" alt="PHP: 0.4%" />
-    <img src="https://img.shields.io/static/v1?label=Kotlin&message=0.3%25&color=A97BFF&style=flat&logo=kotlin&logoColor=white" alt="Kotlin: 0.3%" />
-    <img src="https://img.shields.io/static/v1?label=C%23&message=0.1%25&color=178600&style=flat&logo=dotnet&logoColor=white" alt="C#: 0.1%" />
-    <img src="https://img.shields.io/static/v1?label=Go&message=0%25&color=00ADD8&style=flat&logo=go&logoColor=white" alt="Go: 0%" />
-    <img src="https://img.shields.io/static/v1?label=Node&message=2.1%25&color=339933&style=flat&logo=nodedotjs&logoColor=white" alt="Node: 2.1%" />
-    <img src="https://img.shields.io/static/v1?label=Others&message=1%25&color=8b949e&style=flat" alt="Others: 1%" />
-  </p>
 </div>
 
 ## Top Projects
