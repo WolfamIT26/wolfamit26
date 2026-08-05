@@ -8,12 +8,12 @@
   
       <rect x="34" y="84" width="192" height="52" rx="12" fill="#161b22" stroke="#30363d" />
       <text x="50" y="106" class="label">Total Repos</text>
-      <text x="50" y="127" class="value">37</text>
+      <text x="50" y="127" class="value">38</text>
     
 
       <rect x="250" y="84" width="192" height="52" rx="12" fill="#161b22" stroke="#30363d" />
       <text x="266" y="106" class="label">Public</text>
-      <text x="266" y="127" class="value">26</text>
+      <text x="266" y="127" class="value">27</text>
     
 
       <rect x="466" y="84" width="192" height="52" rx="12" fill="#161b22" stroke="#30363d" />
