@@ -8,21 +8,21 @@
   <rect x="40.0" y="62" width="65.6" height="18" fill="#e34c26" rx="5" />
 <rect x="105.6" y="62" width="17.2" height="18" fill="#563d7c" rx="5" />
 <rect x="122.8" y="62" width="43.5" height="18" fill="#f1e05a" rx="5" />
-<rect x="166.3" y="62" width="3.0" height="18" fill="#3178c6" rx="5" />
-<rect x="169.3" y="62" width="638.8" height="18" fill="#3572A5" rx="5" />
-<rect x="808.1" y="62" width="22.1" height="18" fill="#b07219" rx="5" />
-<rect x="830.2" y="62" width="3.3" height="18" fill="#4F5D95" rx="5" />
-<rect x="833.5" y="62" width="3.0" height="18" fill="#A97BFF" rx="5" />
-<rect x="836.5" y="62" width="3.0" height="18" fill="#178600" rx="5" />
-<rect x="839.5" y="62" width="0.0" height="18" fill="#f34b7d" rx="5" />
-<rect x="839.5" y="62" width="0.0" height="18" fill="#00ADD8" rx="5" />
-<rect x="839.5" y="62" width="0.0" height="18" fill="#dea584" rx="5" />
-<rect x="839.5" y="62" width="0.0" height="18" fill="#F05138" rx="5" />
-<rect x="839.5" y="62" width="0.0" height="18" fill="#00B4AB" rx="5" />
-<rect x="839.5" y="62" width="0.0" height="18" fill="#41b883" rx="5" />
-<rect x="839.5" y="62" width="0.0" height="18" fill="#61DAFB" rx="5" />
-<rect x="839.5" y="62" width="17.2" height="18" fill="#339933" rx="5" />
-<rect x="856.7" y="62" width="8.2" height="18" fill="#8b949e" rx="5" />
+<rect x="166.3" y="62" width="3.3" height="18" fill="#3178c6" rx="5" />
+<rect x="169.6" y="62" width="638.0" height="18" fill="#3572A5" rx="5" />
+<rect x="807.5" y="62" width="22.1" height="18" fill="#b07219" rx="5" />
+<rect x="829.7" y="62" width="3.3" height="18" fill="#4F5D95" rx="5" />
+<rect x="832.9" y="62" width="3.0" height="18" fill="#A97BFF" rx="5" />
+<rect x="835.9" y="62" width="3.0" height="18" fill="#178600" rx="5" />
+<rect x="838.9" y="62" width="0.0" height="18" fill="#f34b7d" rx="5" />
+<rect x="838.9" y="62" width="0.0" height="18" fill="#00ADD8" rx="5" />
+<rect x="838.9" y="62" width="0.0" height="18" fill="#dea584" rx="5" />
+<rect x="838.9" y="62" width="0.0" height="18" fill="#F05138" rx="5" />
+<rect x="838.9" y="62" width="0.0" height="18" fill="#00B4AB" rx="5" />
+<rect x="838.9" y="62" width="0.0" height="18" fill="#41b883" rx="5" />
+<rect x="838.9" y="62" width="0.0" height="18" fill="#61DAFB" rx="5" />
+<rect x="838.9" y="62" width="17.2" height="18" fill="#339933" rx="5" />
+<rect x="856.2" y="62" width="8.2" height="18" fill="#8b949e" rx="5" />
   
         <circle cx="52" cy="111" r="6" fill="#e34c26" />
         <text x="70" y="116" class="label">HTML</text>
@@ -41,12 +41,12 @@
 
         <circle cx="52" cy="201" r="6" fill="#3178c6" />
         <text x="70" y="206" class="label">TypeScript</text>
-        <text x="810" y="206" text-anchor="end" class="value">0.2%</text>
+        <text x="810" y="206" text-anchor="end" class="value">0.4%</text>
       
 
         <circle cx="52" cy="231" r="6" fill="#3572A5" />
         <text x="70" y="236" class="label">Python</text>
-        <text x="810" y="236" text-anchor="end" class="value">77.9%</text>
+        <text x="810" y="236" text-anchor="end" class="value">77.8%</text>
       
 
         <circle cx="52" cy="261" r="6" fill="#b07219" />
