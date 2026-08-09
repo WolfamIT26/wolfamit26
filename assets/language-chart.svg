@@ -5,28 +5,28 @@
   <rect width="900" height="658" rx="18" fill="#0d1117" />
   <text x="40" y="38" class="title">Language Analysis</text>
   <rect x="40" y="62" width="820" height="18" fill="#30363d" rx="5" />
-  <rect x="40.0" y="62" width="65.6" height="18" fill="#e34c26" rx="5" />
-<rect x="105.6" y="62" width="17.2" height="18" fill="#563d7c" rx="5" />
-<rect x="122.8" y="62" width="43.5" height="18" fill="#f1e05a" rx="5" />
-<rect x="166.3" y="62" width="3.3" height="18" fill="#3178c6" rx="5" />
-<rect x="169.6" y="62" width="638.0" height="18" fill="#3572A5" rx="5" />
-<rect x="807.5" y="62" width="22.1" height="18" fill="#b07219" rx="5" />
-<rect x="829.7" y="62" width="3.3" height="18" fill="#4F5D95" rx="5" />
-<rect x="832.9" y="62" width="3.0" height="18" fill="#A97BFF" rx="5" />
-<rect x="835.9" y="62" width="3.0" height="18" fill="#178600" rx="5" />
-<rect x="838.9" y="62" width="0.0" height="18" fill="#f34b7d" rx="5" />
-<rect x="838.9" y="62" width="0.0" height="18" fill="#00ADD8" rx="5" />
-<rect x="838.9" y="62" width="0.0" height="18" fill="#dea584" rx="5" />
-<rect x="838.9" y="62" width="0.0" height="18" fill="#F05138" rx="5" />
-<rect x="838.9" y="62" width="0.0" height="18" fill="#00B4AB" rx="5" />
-<rect x="838.9" y="62" width="0.0" height="18" fill="#41b883" rx="5" />
-<rect x="838.9" y="62" width="0.0" height="18" fill="#61DAFB" rx="5" />
-<rect x="838.9" y="62" width="17.2" height="18" fill="#339933" rx="5" />
-<rect x="856.2" y="62" width="8.2" height="18" fill="#8b949e" rx="5" />
+  <rect x="40.0" y="62" width="64.8" height="18" fill="#e34c26" rx="5" />
+<rect x="104.8" y="62" width="17.2" height="18" fill="#563d7c" rx="5" />
+<rect x="122.0" y="62" width="43.5" height="18" fill="#f1e05a" rx="5" />
+<rect x="165.5" y="62" width="4.1" height="18" fill="#3178c6" rx="5" />
+<rect x="169.6" y="62" width="636.3" height="18" fill="#3572A5" rx="5" />
+<rect x="805.9" y="62" width="22.1" height="18" fill="#b07219" rx="5" />
+<rect x="828.0" y="62" width="3.3" height="18" fill="#4F5D95" rx="5" />
+<rect x="831.3" y="62" width="3.0" height="18" fill="#A97BFF" rx="5" />
+<rect x="834.3" y="62" width="3.0" height="18" fill="#178600" rx="5" />
+<rect x="837.3" y="62" width="0.0" height="18" fill="#f34b7d" rx="5" />
+<rect x="837.3" y="62" width="0.0" height="18" fill="#00ADD8" rx="5" />
+<rect x="837.3" y="62" width="0.0" height="18" fill="#dea584" rx="5" />
+<rect x="837.3" y="62" width="0.0" height="18" fill="#F05138" rx="5" />
+<rect x="837.3" y="62" width="0.0" height="18" fill="#00B4AB" rx="5" />
+<rect x="837.3" y="62" width="0.0" height="18" fill="#41b883" rx="5" />
+<rect x="837.3" y="62" width="0.0" height="18" fill="#61DAFB" rx="5" />
+<rect x="837.3" y="62" width="17.2" height="18" fill="#339933" rx="5" />
+<rect x="854.5" y="62" width="8.2" height="18" fill="#8b949e" rx="5" />
   
         <circle cx="52" cy="111" r="6" fill="#e34c26" />
         <text x="70" y="116" class="label">HTML</text>
-        <text x="810" y="116" text-anchor="end" class="value">8%</text>
+        <text x="810" y="116" text-anchor="end" class="value">7.9%</text>
       
 
         <circle cx="52" cy="141" r="6" fill="#563d7c" />
@@ -41,12 +41,12 @@
 
         <circle cx="52" cy="201" r="6" fill="#3178c6" />
         <text x="70" y="206" class="label">TypeScript</text>
-        <text x="810" y="206" text-anchor="end" class="value">0.4%</text>
+        <text x="810" y="206" text-anchor="end" class="value">0.5%</text>
       
 
         <circle cx="52" cy="231" r="6" fill="#3572A5" />
         <text x="70" y="236" class="label">Python</text>
-        <text x="810" y="236" text-anchor="end" class="value">77.8%</text>
+        <text x="810" y="236" text-anchor="end" class="value">77.6%</text>
       
 
         <circle cx="52" cy="261" r="6" fill="#b07219" />
