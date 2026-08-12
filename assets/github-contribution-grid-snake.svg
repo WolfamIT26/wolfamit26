@@ -371,6 +371,7 @@
 <rect x="756" y="50" width="10" height="10" rx="2" fill="#006d32" opacity="0.9" />
 <rect x="756" y="64" width="10" height="10" rx="2" fill="#161b22" opacity="0.9" />
 <rect x="756" y="78" width="10" height="10" rx="2" fill="#161b22" opacity="0.9" />
+<rect x="756" y="92" width="10" height="10" rx="2" fill="#161b22" opacity="0.9" />
   
         <polyline points="537,55 537,69 537,83 537,97 537,111 537,125 551,83 565,111 579,83 579,111 579,139 593,83 593,125 607,69 607,83 635,97 649,55 649,83 649,111 649,139 663,125 677,97 705,111 719,97 719,111 719,139 733,69 733,83 747,97 747,111 747,125 761,55" fill="none" stroke="#f5d742" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.95" />
         <circle cx="761" cy="55" r="7" fill="#f5d742" />
