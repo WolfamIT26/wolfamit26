@@ -7,7 +7,7 @@
   <text x="44" y="62" class="eyebrow">AUTOMATED ENGINEERING PORTFOLIO</text>
   <text x="44" y="92" class="title">WolfamIT26</text>
   <text x="856" y="62" text-anchor="end" class="context">Top language: HTML</text>
-  <text x="856" y="92" text-anchor="end" class="context">Latest push: MobileApp</text>
+  <text x="856" y="92" text-anchor="end" class="context">Latest push: SEP</text>
   
         <rect x="40" y="116" width="180" height="56" rx="12" fill="#161b22" stroke="#30363d" />
         <text x="56" y="139" class="metric-label">Repositories</text>
@@ -36,7 +36,7 @@
 
         <rect x="245" y="192" width="180" height="56" rx="12" fill="#161b22" stroke="#30363d" />
         <text x="261" y="215" class="metric-label">Pull Requests</text>
-        <text x="261" y="237" class="metric-value">102</text>
+        <text x="261" y="237" class="metric-value">103</text>
       
 
         <rect x="450" y="192" width="180" height="56" rx="12" fill="#161b22" stroke="#30363d" />

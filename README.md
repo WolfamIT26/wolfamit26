@@ -231,36 +231,6 @@ No description provided.
     <a href="https://biz-flow-seven.vercel.app"><img src="https://img.shields.io/static/v1?label=Demo&message=Live&color=0E9F6E&style=flat&logo=googlechrome&logoColor=white" alt="Demo: Live" /></a>
 </p>
 
-### ✨ [ExpenseManagement2026/MobileApp](https://github.com/ExpenseManagement2026/MobileApp)
-
-No description provided.
-
-<p>
-    <img src="https://img.shields.io/static/v1?label=Visibility&message=Public&color=238636&style=flat&logo=github&logoColor=white" alt="Visibility: Public" />
-    <img src="https://img.shields.io/static/v1?label=Language&message=Kotlin&color=7F52FF&style=flat&logo=kotlin&logoColor=white" alt="Language: Kotlin" />
-    <img src="https://img.shields.io/static/v1?label=Stars&message=0&color=d29922&style=flat&logo=github&logoColor=white" alt="Stars: 0" />
-    <img src="https://img.shields.io/static/v1?label=Forks&message=0&color=8250df&style=flat&logo=git&logoColor=white" alt="Forks: 0" />
-    <img src="https://img.shields.io/static/v1?label=Commits&message=55&color=238636&style=flat&logo=git&logoColor=white" alt="Commits: 55" />
-    <img src="https://img.shields.io/static/v1?label=PRs&message=1&color=8250df&style=flat&logo=github&logoColor=white" alt="PRs: 1" />
-    <img src="https://img.shields.io/static/v1?label=Contributors&message=5&color=2ea44f&style=flat&logo=github&logoColor=white" alt="Contributors: 5" />
-    <img src="https://img.shields.io/static/v1?label=Est.+LOC&message=4.4K&color=0A66C2&style=flat&logo=code&logoColor=white" alt="Est. LOC: 4.4K" />
-    <img src="https://img.shields.io/static/v1?label=Open+Issues&message=0&color=da3633&style=flat&logo=github&logoColor=white" alt="Open Issues: 0" />
-    <img src="https://img.shields.io/static/v1?label=Default+Branch&message=main&color=0969da&style=flat&logo=git&logoColor=white" alt="Default Branch: main" />
-    <img src="https://img.shields.io/static/v1?label=Source&message=Organization&color=0969da&style=flat&logo=github&logoColor=white" alt="Source: Organization" />
-    <img src="https://img.shields.io/static/v1?label=Permission&message=Push&color=0969da&style=flat&logo=github&logoColor=white" alt="Permission: Push" />
-    <img src="https://img.shields.io/static/v1?label=Merged+PR&message=Yes&color=8250df&style=flat&logo=github&logoColor=white" alt="Merged PR: Yes" />
-    <img src="https://img.shields.io/static/v1?label=Updated&message=May+7%2C+2026&color=30363d&style=flat&logo=github&logoColor=white" alt="Updated: May 7, 2026" />
-</p>
-
-<p>
-    <img src="https://img.shields.io/static/v1?label=Tech&message=Kotlin&color=7F52FF&style=flat&logo=kotlin&logoColor=white" alt="Tech: Kotlin" />
-    <img src="https://img.shields.io/static/v1?label=Tech&message=VSCode&color=007ACC&style=flat&logo=visualstudiocode&logoColor=white" alt="Tech: VSCode" />
-    <img src="https://img.shields.io/static/v1?label=Tech&message=Markdown&color=000000&style=flat&logo=markdown&logoColor=white" alt="Tech: Markdown" />
-</p>
-<p>
-    <a href="https://github.com/ExpenseManagement2026/MobileApp"><img src="https://img.shields.io/static/v1?label=GitHub&message=Repository&color=181717&style=flat&logo=github&logoColor=white" alt="GitHub: Repository" /></a>
-</p>
-
 ### ⚙️ [Nhom-12-Laptrinhmang/GK](https://github.com/Nhom-12-Laptrinhmang/GK)
 
 No description provided.
@@ -354,12 +324,6 @@ No description provided.
     <a href="https://github.com/ThanhVan-20/Bizflow"><img src="https://img.shields.io/static/v1?label=GitHub&message=Repository&color=181717&style=flat&logo=github&logoColor=white" alt="GitHub: Repository" /></a>
 </p>
 
-<div align="center">
-  <img src="./assets/top-projects.svg" alt="Weighted top projects overview" />
-</div>
-
-## Organization Projects
-
 ### ✨ [ExpenseManagement2026/MobileApp](https://github.com/ExpenseManagement2026/MobileApp)
 
 No description provided.
@@ -378,7 +342,8 @@ No description provided.
     <img src="https://img.shields.io/static/v1?label=Source&message=Organization&color=0969da&style=flat&logo=github&logoColor=white" alt="Source: Organization" />
     <img src="https://img.shields.io/static/v1?label=Permission&message=Push&color=0969da&style=flat&logo=github&logoColor=white" alt="Permission: Push" />
     <img src="https://img.shields.io/static/v1?label=Merged+PR&message=Yes&color=8250df&style=flat&logo=github&logoColor=white" alt="Merged PR: Yes" />
-    <img src="https://img.shields.io/static/v1?label=Updated&message=May+7%2C+2026&color=30363d&style=flat&logo=github&logoColor=white" alt="Updated: May 7, 2026" />
+    <img src="https://img.shields.io/static/v1?label=Contribution&message=Yes&color=238636&style=flat&logo=github&logoColor=white" alt="Contribution: Yes" />
+    <img src="https://img.shields.io/static/v1?label=Updated&message=unknown&color=30363d&style=flat&logo=github&logoColor=white" alt="Updated: unknown" />
 </p>
 
 <p>
@@ -389,6 +354,12 @@ No description provided.
 <p>
     <a href="https://github.com/ExpenseManagement2026/MobileApp"><img src="https://img.shields.io/static/v1?label=GitHub&message=Repository&color=181717&style=flat&logo=github&logoColor=white" alt="GitHub: Repository" /></a>
 </p>
+
+<div align="center">
+  <img src="./assets/top-projects.svg" alt="Weighted top projects overview" />
+</div>
+
+## Organization Projects
 
 ### ⚙️ [tutl0371/SEP](https://github.com/tutl0371/SEP)
 
@@ -589,37 +560,31 @@ No description provided.
     <a href="https://github.com/Nhom-12-Laptrinhmang/E5-Web"><img src="https://img.shields.io/static/v1?label=GitHub&message=Repository&color=181717&style=flat&logo=github&logoColor=white" alt="GitHub: Repository" /></a>
 </p>
 
-## Latest Updated Projects
-
-### ✨ [ExpenseManagement2026/MobileApp](https://github.com/ExpenseManagement2026/MobileApp)
+### ✨ [Nhom-12-Laptrinhmang/ELEARNING](https://github.com/Nhom-12-Laptrinhmang/ELEARNING)
 
 No description provided.
 
 <p>
     <img src="https://img.shields.io/static/v1?label=Visibility&message=Public&color=238636&style=flat&logo=github&logoColor=white" alt="Visibility: Public" />
-    <img src="https://img.shields.io/static/v1?label=Language&message=Kotlin&color=7F52FF&style=flat&logo=kotlin&logoColor=white" alt="Language: Kotlin" />
     <img src="https://img.shields.io/static/v1?label=Stars&message=0&color=d29922&style=flat&logo=github&logoColor=white" alt="Stars: 0" />
     <img src="https://img.shields.io/static/v1?label=Forks&message=0&color=8250df&style=flat&logo=git&logoColor=white" alt="Forks: 0" />
-    <img src="https://img.shields.io/static/v1?label=Commits&message=55&color=238636&style=flat&logo=git&logoColor=white" alt="Commits: 55" />
-    <img src="https://img.shields.io/static/v1?label=PRs&message=1&color=8250df&style=flat&logo=github&logoColor=white" alt="PRs: 1" />
-    <img src="https://img.shields.io/static/v1?label=Contributors&message=5&color=2ea44f&style=flat&logo=github&logoColor=white" alt="Contributors: 5" />
-    <img src="https://img.shields.io/static/v1?label=Est.+LOC&message=4.4K&color=0A66C2&style=flat&logo=code&logoColor=white" alt="Est. LOC: 4.4K" />
+    <img src="https://img.shields.io/static/v1?label=Commits&message=2&color=238636&style=flat&logo=git&logoColor=white" alt="Commits: 2" />
+    <img src="https://img.shields.io/static/v1?label=Contributors&message=1&color=2ea44f&style=flat&logo=github&logoColor=white" alt="Contributors: 1" />
     <img src="https://img.shields.io/static/v1?label=Open+Issues&message=0&color=da3633&style=flat&logo=github&logoColor=white" alt="Open Issues: 0" />
     <img src="https://img.shields.io/static/v1?label=Default+Branch&message=main&color=0969da&style=flat&logo=git&logoColor=white" alt="Default Branch: main" />
     <img src="https://img.shields.io/static/v1?label=Source&message=Organization&color=0969da&style=flat&logo=github&logoColor=white" alt="Source: Organization" />
     <img src="https://img.shields.io/static/v1?label=Permission&message=Push&color=0969da&style=flat&logo=github&logoColor=white" alt="Permission: Push" />
-    <img src="https://img.shields.io/static/v1?label=Merged+PR&message=Yes&color=8250df&style=flat&logo=github&logoColor=white" alt="Merged PR: Yes" />
-    <img src="https://img.shields.io/static/v1?label=Updated&message=May+7%2C+2026&color=30363d&style=flat&logo=github&logoColor=white" alt="Updated: May 7, 2026" />
+    <img src="https://img.shields.io/static/v1?label=Updated&message=Nov+8%2C+2025&color=30363d&style=flat&logo=github&logoColor=white" alt="Updated: Nov 8, 2025" />
 </p>
 
 <p>
-    <img src="https://img.shields.io/static/v1?label=Tech&message=Kotlin&color=7F52FF&style=flat&logo=kotlin&logoColor=white" alt="Tech: Kotlin" />
-    <img src="https://img.shields.io/static/v1?label=Tech&message=VSCode&color=007ACC&style=flat&logo=visualstudiocode&logoColor=white" alt="Tech: VSCode" />
     <img src="https://img.shields.io/static/v1?label=Tech&message=Markdown&color=000000&style=flat&logo=markdown&logoColor=white" alt="Tech: Markdown" />
 </p>
 <p>
-    <a href="https://github.com/ExpenseManagement2026/MobileApp"><img src="https://img.shields.io/static/v1?label=GitHub&message=Repository&color=181717&style=flat&logo=github&logoColor=white" alt="GitHub: Repository" /></a>
+    <a href="https://github.com/Nhom-12-Laptrinhmang/ELEARNING"><img src="https://img.shields.io/static/v1?label=GitHub&message=Repository&color=181717&style=flat&logo=github&logoColor=white" alt="GitHub: Repository" /></a>
 </p>
+
+## Latest Updated Projects
 
 ### ⚙️ [tutl0371/SEP](https://github.com/tutl0371/SEP)
 
@@ -791,6 +756,35 @@ No description provided.
     <a href="https://github.com/Nhom-12-Laptrinhmang/E5"><img src="https://img.shields.io/static/v1?label=GitHub&message=Repository&color=181717&style=flat&logo=github&logoColor=white" alt="GitHub: Repository" /></a>
 </p>
 
+### ✨ [Nhom-12-Laptrinhmang/E5-Web](https://github.com/Nhom-12-Laptrinhmang/E5-Web)
+
+No description provided.
+
+<p>
+    <img src="https://img.shields.io/static/v1?label=Visibility&message=Private&color=6f42c1&style=flat&logo=github&logoColor=white" alt="Visibility: Private" />
+    <img src="https://img.shields.io/static/v1?label=Language&message=Go&color=00ADD8&style=flat&logo=go&logoColor=white" alt="Language: Go" />
+    <img src="https://img.shields.io/static/v1?label=Stars&message=0&color=d29922&style=flat&logo=github&logoColor=white" alt="Stars: 0" />
+    <img src="https://img.shields.io/static/v1?label=Forks&message=0&color=8250df&style=flat&logo=git&logoColor=white" alt="Forks: 0" />
+    <img src="https://img.shields.io/static/v1?label=Commits&message=4&color=238636&style=flat&logo=git&logoColor=white" alt="Commits: 4" />
+    <img src="https://img.shields.io/static/v1?label=Contributors&message=1&color=2ea44f&style=flat&logo=github&logoColor=white" alt="Contributors: 1" />
+    <img src="https://img.shields.io/static/v1?label=Est.+LOC&message=130&color=0A66C2&style=flat&logo=code&logoColor=white" alt="Est. LOC: 130" />
+    <img src="https://img.shields.io/static/v1?label=Open+Issues&message=0&color=da3633&style=flat&logo=github&logoColor=white" alt="Open Issues: 0" />
+    <img src="https://img.shields.io/static/v1?label=Default+Branch&message=main&color=0969da&style=flat&logo=git&logoColor=white" alt="Default Branch: main" />
+    <img src="https://img.shields.io/static/v1?label=Source&message=Organization&color=0969da&style=flat&logo=github&logoColor=white" alt="Source: Organization" />
+    <img src="https://img.shields.io/static/v1?label=Permission&message=Push&color=0969da&style=flat&logo=github&logoColor=white" alt="Permission: Push" />
+    <img src="https://img.shields.io/static/v1?label=Updated&message=Nov+8%2C+2025&color=30363d&style=flat&logo=github&logoColor=white" alt="Updated: Nov 8, 2025" />
+</p>
+
+<p>
+    <img src="https://img.shields.io/static/v1?label=Tech&message=HTML&color=E34F26&style=flat&logo=html5&logoColor=white" alt="Tech: HTML" />
+    <img src="https://img.shields.io/static/v1?label=Tech&message=JavaScript&color=F7DF1E&style=flat&logo=javascript&logoColor=white" alt="Tech: JavaScript" />
+    <img src="https://img.shields.io/static/v1?label=Tech&message=Markdown&color=000000&style=flat&logo=markdown&logoColor=white" alt="Tech: Markdown" />
+    <img src="https://img.shields.io/static/v1?label=Tech&message=Go&color=00ADD8&style=flat&logo=go&logoColor=white" alt="Tech: Go" />
+</p>
+<p>
+    <a href="https://github.com/Nhom-12-Laptrinhmang/E5-Web"><img src="https://img.shields.io/static/v1?label=GitHub&message=Repository&color=181717&style=flat&logo=github&logoColor=white" alt="GitHub: Repository" /></a>
+</p>
+
 ### ✨ [WolfamIT26/profile-ca-nhan](https://github.com/WolfamIT26/profile-ca-nhan)
 
 No description provided.
@@ -832,7 +826,7 @@ No description provided.
     <img src="https://img.shields.io/static/v1?label=Private+Repos&message=11&color=6f42c1&style=flat&logo=github&logoColor=white" alt="Private Repos: 11" />
     <img src="https://img.shields.io/static/v1?label=Organization+Repos&message=27&color=0969da&style=flat&logo=github&logoColor=white" alt="Organization Repos: 27" />
     <img src="https://img.shields.io/static/v1?label=Total+Commits&message=1.1K&color=2ea44f&style=flat&logo=git&logoColor=white" alt="Total Commits: 1.1K" />
-    <img src="https://img.shields.io/static/v1?label=Merged+PRs&message=21&color=8250df&style=flat&logo=github&logoColor=white" alt="Merged PRs: 21" />
+    <img src="https://img.shields.io/static/v1?label=Merged+PRs&message=22&color=8250df&style=flat&logo=github&logoColor=white" alt="Merged PRs: 22" />
     <img src="https://img.shields.io/static/v1?label=Reviews&message=0&color=cf222e&style=flat&logo=github&logoColor=white" alt="Reviews: 0" />
     <img src="https://img.shields.io/static/v1?label=Stars&message=0&color=d29922&style=flat&logo=github&logoColor=white" alt="Stars: 0" />
     <img src="https://img.shields.io/static/v1?label=Forks&message=1&color=8250df&style=flat&logo=git&logoColor=white" alt="Forks: 1" />
