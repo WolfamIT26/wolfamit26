@@ -13,44 +13,44 @@
 
         <circle cx="48" cy="127" r="6" fill="#58a6ff" />
         <line x1="48" y1="134" x2="48" y2="164" stroke="#30363d" stroke-width="2" />
-        <text x="68" y="124" class="project">tutl0371/SEP</text>
-        <text x="68" y="144" class="meta">Updated Apr 12, 2026 • pushed Apr 12, 2026</text>
+        <text x="68" y="124" class="project">ExpenseManagement2026/MobileApp</text>
+        <text x="68" y="144" class="meta">Updated May 7, 2026 • pushed May 7, 2026</text>
       
 
         <circle cx="48" cy="175" r="6" fill="#58a6ff" />
         <line x1="48" y1="182" x2="48" y2="212" stroke="#30363d" stroke-width="2" />
-        <text x="68" y="172" class="project">Nhom-12-Laptrinhmang/gameGK</text>
-        <text x="68" y="192" class="meta">Updated Nov 15, 2025 • pushed Nov 15, 2025</text>
+        <text x="68" y="172" class="project">tutl0371/SEP</text>
+        <text x="68" y="192" class="meta">Updated Apr 12, 2026 • pushed Apr 12, 2026</text>
       
 
         <circle cx="48" cy="223" r="6" fill="#58a6ff" />
         <line x1="48" y1="230" x2="48" y2="260" stroke="#30363d" stroke-width="2" />
-        <text x="68" y="220" class="project">Nhom-12-Laptrinhmang/Example</text>
-        <text x="68" y="240" class="meta">Updated Nov 13, 2025 • pushed Nov 13, 2025</text>
+        <text x="68" y="220" class="project">Nhom-12-Laptrinhmang/gameGK</text>
+        <text x="68" y="240" class="meta">Updated Nov 15, 2025 • pushed Nov 15, 2025</text>
       
 
         <circle cx="48" cy="271" r="6" fill="#58a6ff" />
         <line x1="48" y1="278" x2="48" y2="308" stroke="#30363d" stroke-width="2" />
-        <text x="68" y="268" class="project">Nhom-12-Laptrinhmang/GK</text>
+        <text x="68" y="268" class="project">Nhom-12-Laptrinhmang/Example</text>
         <text x="68" y="288" class="meta">Updated Nov 13, 2025 • pushed Nov 13, 2025</text>
       
 
         <circle cx="48" cy="319" r="6" fill="#58a6ff" />
         <line x1="48" y1="326" x2="48" y2="356" stroke="#30363d" stroke-width="2" />
-        <text x="68" y="316" class="project">Nhom-12-Laptrinhmang/CK</text>
-        <text x="68" y="336" class="meta">Updated Nov 12, 2025 • pushed Nov 12, 2025</text>
+        <text x="68" y="316" class="project">Nhom-12-Laptrinhmang/GK</text>
+        <text x="68" y="336" class="meta">Updated Nov 13, 2025 • pushed Nov 13, 2025</text>
       
 
         <circle cx="48" cy="367" r="6" fill="#58a6ff" />
         <line x1="48" y1="374" x2="48" y2="404" stroke="#30363d" stroke-width="2" />
-        <text x="68" y="364" class="project">Nhom-12-Laptrinhmang/E5</text>
-        <text x="68" y="384" class="meta">Updated Nov 9, 2025 • pushed Nov 9, 2025</text>
+        <text x="68" y="364" class="project">Nhom-12-Laptrinhmang/CK</text>
+        <text x="68" y="384" class="meta">Updated Nov 12, 2025 • pushed Nov 12, 2025</text>
       
 
         <circle cx="48" cy="415" r="6" fill="#58a6ff" />
         <line x1="48" y1="422" x2="48" y2="452" stroke="#30363d" stroke-width="2" />
-        <text x="68" y="412" class="project">Nhom-12-Laptrinhmang/E5-Web</text>
-        <text x="68" y="432" class="meta">Updated Nov 8, 2025 • pushed Nov 8, 2025</text>
+        <text x="68" y="412" class="project">Nhom-12-Laptrinhmang/E5</text>
+        <text x="68" y="432" class="meta">Updated Nov 9, 2025 • pushed Nov 9, 2025</text>
       
   <style>
     .title { fill: #f0f6fc; font: 800 24px Arial, sans-serif; }
