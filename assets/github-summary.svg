@@ -33,7 +33,7 @@
 
       <rect x="250" y="154" width="192" height="52" rx="12" fill="#161b22" stroke="#30363d" />
       <text x="266" y="176" class="label">Merged PRs</text>
-      <text x="266" y="197" class="value">22</text>
+      <text x="266" y="197" class="value">23</text>
     
 
       <rect x="466" y="154" width="192" height="52" rx="12" fill="#161b22" stroke="#30363d" />

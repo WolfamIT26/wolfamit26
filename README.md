@@ -826,7 +826,7 @@ No description provided.
     <img src="https://img.shields.io/static/v1?label=Private+Repos&message=11&color=6f42c1&style=flat&logo=github&logoColor=white" alt="Private Repos: 11" />
     <img src="https://img.shields.io/static/v1?label=Organization+Repos&message=27&color=0969da&style=flat&logo=github&logoColor=white" alt="Organization Repos: 27" />
     <img src="https://img.shields.io/static/v1?label=Total+Commits&message=1.1K&color=2ea44f&style=flat&logo=git&logoColor=white" alt="Total Commits: 1.1K" />
-    <img src="https://img.shields.io/static/v1?label=Merged+PRs&message=22&color=8250df&style=flat&logo=github&logoColor=white" alt="Merged PRs: 22" />
+    <img src="https://img.shields.io/static/v1?label=Merged+PRs&message=23&color=8250df&style=flat&logo=github&logoColor=white" alt="Merged PRs: 23" />
     <img src="https://img.shields.io/static/v1?label=Reviews&message=0&color=cf222e&style=flat&logo=github&logoColor=white" alt="Reviews: 0" />
     <img src="https://img.shields.io/static/v1?label=Stars&message=0&color=d29922&style=flat&logo=github&logoColor=white" alt="Stars: 0" />
     <img src="https://img.shields.io/static/v1?label=Forks&message=1&color=8250df&style=flat&logo=git&logoColor=white" alt="Forks: 1" />
