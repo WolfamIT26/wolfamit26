@@ -36,7 +36,7 @@
 
         <rect x="245" y="192" width="180" height="56" rx="12" fill="#161b22" stroke="#30363d" />
         <text x="261" y="215" class="metric-label">Pull Requests</text>
-        <text x="261" y="237" class="metric-value">104</text>
+        <text x="261" y="237" class="metric-value">105</text>
       
 
         <rect x="450" y="192" width="180" height="56" rx="12" fill="#161b22" stroke="#30363d" />
